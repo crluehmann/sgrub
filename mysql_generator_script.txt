@@ -1,0 +1,9 @@
+Feed everything below and including line 3 into the MySQL console.
+------------------------------------------------------------------
+CREATE USER 'ioi_daemon'@'localhost' IDENTIFIED BY 'seraphimregress';
+
+CREATE DATABASE intimations;
+
+USE intimations;
+
+GRANT ALL PRIVILEGES ON *.* TO ioi_daemon@localhost;
