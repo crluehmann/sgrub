@@ -1,11 +1,11 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418770881914">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418771121446">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
     <file name="master_a-master.css" crc="213952814" ref="gallery:about-artist:contact:index:foundation"/>
     <file name="gallery.css" crc="16551360" ref="gallery"/>
     <file name="about-artist.css" crc="3965444059" ref="about-artist"/>
     <file name="contact.css" crc="4279459476" ref="contact"/>
-    <file name="index.css" crc="3765125778" ref="index"/>
+    <file name="index.css" crc="3953025613" ref="index"/>
     <file name="foundation.css" crc="3769056029" ref="foundation"/>
   </folder>
   <folder name="scripts">
@@ -63,7 +63,7 @@
     <file name="u348-17-fs.png" crc="4246714077" ref="contact"/>
     <file name="sg signature -w136x136.png" crc="4285712281" ref="index"/>
   </folder>
-  <file name="index.html" crc="196495533" mt="1418770863390" redirect="true"/>
+  <file name="index.html" crc="401439388" mt="1418771084241" redirect="true"/>
   <file name="gallery.html" crc="239911442" mt="1418770863390" redirect="true"/>
   <file name="foundation.html" crc="4000171109" mt="1418770863391" redirect="true"/>
   <file name="about-artist.html" crc="455802712" mt="1418770863391" redirect="true"/>
