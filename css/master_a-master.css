@@ -16,8 +16,8 @@
 #u146-4
 {
 	background-color: transparent;
-	line-height: 48px;
-	font-size: 40px;
+	line-height: 42px;
+	font-size: 35px;
 	text-align: center;
 	font-family: alex-brush, cursive;
 	font-weight: 400;
@@ -42,8 +42,8 @@
 #u161-4
 {
 	background-color: transparent;
-	line-height: 48px;
-	font-size: 40px;
+	line-height: 42px;
+	font-size: 35px;
 	text-align: center;
 	font-family: alex-brush, cursive;
 	font-weight: 400;
@@ -68,15 +68,15 @@
 #u173-4
 {
 	background-color: transparent;
-	line-height: 48px;
-	font-size: 40px;
+	line-height: 42px;
+	font-size: 35px;
 	text-align: center;
 	font-family: alex-brush, cursive;
 	font-weight: 400;
 	position: relative;
 }
 
-#u143,#u156,#u169,#u182
+#u504,#u143,#u156,#u169,#u182
 {
 	background-color: transparent;
 	position: relative;
@@ -105,8 +105,8 @@
 #u186-4
 {
 	background-color: transparent;
-	line-height: 48px;
-	font-size: 40px;
+	line-height: 42px;
+	font-size: 35px;
 	text-align: center;
 	font-family: alex-brush, cursive;
 	font-weight: 400;
@@ -124,19 +124,19 @@
 	position: fixed;
 }
 
-#u255-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	position: fixed;
-}
-
 #menuu115,#u189
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	position: fixed;
+}
+
+#u255-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: fixed;
 }
 

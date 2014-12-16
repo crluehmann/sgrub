@@ -1,12 +1,12 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418770495397">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418770881914">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
-    <file name="master_a-master.css" crc="3839520638" ref="gallery:about-artist:contact:index:foundation"/>
-    <file name="gallery.css" crc="380741963" ref="gallery"/>
-    <file name="about-artist.css" crc="346034532" ref="about-artist"/>
-    <file name="contact.css" crc="3775787492" ref="contact"/>
-    <file name="index.css" crc="3818767896" ref="index"/>
-    <file name="foundation.css" crc="295946569" ref="foundation"/>
+    <file name="master_a-master.css" crc="213952814" ref="gallery:about-artist:contact:index:foundation"/>
+    <file name="gallery.css" crc="16551360" ref="gallery"/>
+    <file name="about-artist.css" crc="3965444059" ref="about-artist"/>
+    <file name="contact.css" crc="4279459476" ref="contact"/>
+    <file name="index.css" crc="3765125778" ref="index"/>
+    <file name="foundation.css" crc="3769056029" ref="foundation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:gallery:foundation:about-artist:contact"/>
@@ -61,10 +61,11 @@
     <file name="u348-17-r.png" crc="113629867" ref="contact"/>
     <file name="u348-17-m.png" crc="4288882201" ref="contact"/>
     <file name="u348-17-fs.png" crc="4246714077" ref="contact"/>
+    <file name="sg signature -w136x136.png" crc="4285712281" ref="index"/>
   </folder>
-  <file name="index.html" crc="123313523" mt="1418770480096" redirect="true"/>
-  <file name="gallery.html" crc="118070572" mt="1418770480097" redirect="true"/>
-  <file name="foundation.html" crc="4010055676" mt="1418770480097" redirect="true"/>
-  <file name="about-artist.html" crc="3825464696" mt="1418770480098" redirect="true"/>
-  <file name="contact.html" crc="63590502" mt="1418770480098" redirect="true"/>
+  <file name="index.html" crc="196495533" mt="1418770863390" redirect="true"/>
+  <file name="gallery.html" crc="239911442" mt="1418770863390" redirect="true"/>
+  <file name="foundation.html" crc="4000171109" mt="1418770863391" redirect="true"/>
+  <file name="about-artist.html" crc="455802712" mt="1418770863391" redirect="true"/>
+  <file name="contact.html" crc="250798277" mt="1418770863397" redirect="true"/>
 </manifest>

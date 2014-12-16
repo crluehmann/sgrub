@@ -205,6 +205,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.sydneygruber.com/images/sg%20signature%20-w136x136.png</loc>
+    <lastmod>2014-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.sydneygruber.com/index.html</loc>
     <lastmod>2014-12-16</lastmod>
     <changefreq>weekly</changefreq>
