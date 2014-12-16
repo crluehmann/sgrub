@@ -1,7 +1,7 @@
 .version.gallery /* version checker */
 {
-	color: #00001B;
-	background-color: #07C3D2;
+	color: #000015;
+	background-color: #19D849;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 871px;
-	min-height: 952.65px;
+	width: 898px;
+	min-height: 1139.9px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 118px 29px 335.35px 60px;
+	padding: 118px 29px 148.0999999999999px 33px;
 }
 
 #menuu115
@@ -207,7 +207,7 @@
 	color: #FFFFFF;
 	font-family: droid-serif, serif;
 	font-weight: 400;
-	margin-left: 133px;
+	margin-left: 160px;
 	position: relative;
 }
 
@@ -215,21 +215,19 @@
 {
 	z-index: 34;
 	width: 0.01px;
-	height: 194px;
-	margin-top: 152px;
+	height: 396px;
+	margin-left: 27px;
+	margin-top: 29px;
 	position: relative;
 }
 
 #u456
 {
 	position: absolute;
-	width: 611px;
-	height: 440px;
-	background-color: #565656;
-	background-color: rgba(68, 68, 68, 0.9);
-	top: -123px;
+	width: 567px;
+	height: 396px;
+	background-color: transparent;
 	left: 253px;
-	-pie-background: rgba(68, 68, 68, 0.9);
 }
 
 #u456popup
@@ -247,8 +245,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
 }
 
 #u459
@@ -261,8 +257,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
 }
 
 #u461
@@ -275,8 +269,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
 }
 
 #u457_clip,#u459_clip,#u461_clip
@@ -300,6 +292,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 145px;
+	top: 123px;
 }
 
 #u439popup
@@ -346,6 +339,13 @@
 	left: 155px;
 }
 
+#u440.SSSlideLinkSelected,#u444.SSSlideLinkSelected,#u442.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 4px -10000px 0px 0px;
+}
+
 #u449-4
 {
 	position: absolute;
@@ -358,7 +358,7 @@
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 218px;
+	top: 341px;
 	left: 81px;
 }
 
@@ -379,7 +379,7 @@
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 218px;
+	top: 341px;
 	left: 50px;
 }
 
@@ -401,7 +401,7 @@
 	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 218px;
+	top: 341px;
 	left: 150px;
 }
 
@@ -431,8 +431,8 @@
 	color: #FFFFFF;
 	font-family: droid-serif, serif;
 	font-weight: 400;
-	margin-left: 241px;
-	margin-top: 168px;
+	margin-left: 268px;
+	margin-top: 89px;
 	position: relative;
 }
 
@@ -466,22 +466,17 @@
 {
 	z-index: 65;
 	width: 0.01px;
-	height: 226px;
-	margin-left: 641px;
-	margin-top: 98px;
+	height: 477px;
+	margin-top: 34px;
 	position: relative;
 }
 
 #u489
 {
 	position: absolute;
-	width: 656px;
-	height: 521px;
-	background-color: #565656;
-	background-color: rgba(68, 68, 68, 0.9);
-	top: -64px;
-	left: -668px;
-	-pie-background: rgba(68, 68, 68, 0.9);
+	width: 612px;
+	height: 477px;
+	background-color: transparent;
 }
 
 #u489popup
@@ -499,8 +494,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
 }
 
 #u492
@@ -513,8 +506,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
 }
 
 #u494
@@ -527,8 +518,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
 }
 
 #u490_clip,#u492_clip,#u494_clip
@@ -552,6 +541,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 181px;
+	top: 64px;
+	left: 668px;
 }
 
 #u472popup
@@ -595,6 +586,13 @@
 	left: 155px;
 }
 
+#u473.SSSlideLinkSelected,#u477.SSSlideLinkSelected,#u475.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u440_clip,#u444_clip,#u442_clip,#u473_clip,#u477_clip,#u475_clip
 {
 	overflow: hidden;
@@ -620,8 +618,8 @@
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 267px;
-	left: 81px;
+	top: 331px;
+	left: 749px;
 }
 
 #u482-4popup
@@ -641,8 +639,8 @@
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 267px;
-	left: 50px;
+	top: 331px;
+	left: 718px;
 }
 
 #u488-4popup
@@ -668,8 +666,8 @@
 	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 266px;
-	left: 150px;
+	top: 330px;
+	left: 818px;
 }
 
 #u496-4popup

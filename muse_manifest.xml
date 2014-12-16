@@ -1,17 +1,17 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418769828616">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418770300190">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
     <file name="master_a-master.css" crc="3839520638" ref="gallery:about-artist:contact:index:foundation"/>
-    <file name="gallery.css" crc="453493714" ref="gallery"/>
-    <file name="about-artist.css" crc="263542453" ref="about-artist"/>
-    <file name="contact.css" crc="87014360" ref="contact"/>
+    <file name="gallery.css" crc="354015305" ref="gallery"/>
+    <file name="about-artist.css" crc="55581421" ref="about-artist"/>
+    <file name="contact.css" crc="3781752650" ref="contact"/>
     <file name="index.css" crc="173186235" ref="index"/>
-    <file name="foundation.css" crc="120287733" ref="foundation"/>
+    <file name="foundation.css" crc="296140535" ref="foundation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:gallery:foundation:about-artist:contact"/>
     <file name="museutils.js" crc="3777594392" ref="index:gallery:foundation:about-artist:contact"/>
-    <file name="pie.js" crc="3827607177" ref="index:gallery"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.musemenu.js" crc="415733523" ref="index:gallery:foundation:about-artist:contact"/>
     <file name="webpro.js" crc="474087315" ref="index:gallery:contact"/>
     <file name="musewpslideshow.js" crc="274584885" ref="index:gallery"/>
@@ -45,10 +45,6 @@
     <file name="sg signature -w207x207.png" crc="400620649" ref="foundation"/>
     <file name="sg signature -w155x155.png" crc="4235777423" ref="about-artist"/>
     <file name="sg signature -w.png" crc="3852662954" ref="contact"/>
-    <file name="u348-21.png" crc="382520818" ref="contact"/>
-    <file name="u348-21-r.png" crc="113629867" ref="contact"/>
-    <file name="u348-21-m.png" crc="4288882201" ref="contact"/>
-    <file name="u348-21-fs.png" crc="4246714077" ref="contact"/>
     <file name="recaptchamodeaudio.png" crc="19952529" ref="contact"/>
     <file name="recaptchamodeaudiorollover.jpg" crc="356175670" ref="contact"/>
     <file name="recaptchamodeaudiomousedown.jpg" crc="4192655525" ref="contact"/>
@@ -61,10 +57,14 @@
     <file name="recaptchahelp.png" crc="4220586111" ref="contact"/>
     <file name="recaptchahelprollover.jpg" crc="450414995" ref="contact"/>
     <file name="recaptchahelpmousedown.jpg" crc="101282582" ref="contact"/>
+    <file name="u348-17.png" crc="382520818" ref="contact"/>
+    <file name="u348-17-r.png" crc="113629867" ref="contact"/>
+    <file name="u348-17-m.png" crc="4288882201" ref="contact"/>
+    <file name="u348-17-fs.png" crc="4246714077" ref="contact"/>
   </folder>
-  <file name="index.html" crc="3771849558" mt="1418767867084" redirect="true"/>
-  <file name="gallery.html" crc="4075324266" mt="1418769762776" redirect="true"/>
-  <file name="foundation.html" crc="4116653635" mt="1418769344374" redirect="true"/>
-  <file name="about-artist.html" crc="4111915430" mt="1418769211991" redirect="true"/>
-  <file name="contact.html" crc="3922614767" mt="1418768851062" redirect="true"/>
+  <file name="index.html" crc="123313523" mt="1418770263326" redirect="true"/>
+  <file name="gallery.html" crc="118070572" mt="1418770263327" redirect="true"/>
+  <file name="foundation.html" crc="4010055676" mt="1418770263327" redirect="true"/>
+  <file name="about-artist.html" crc="3825464696" mt="1418770263328" redirect="true"/>
+  <file name="contact.html" crc="63590502" mt="1418770263328" redirect="true"/>
 </manifest>

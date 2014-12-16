@@ -1,7 +1,7 @@
 .version.about_artist /* version checker */
 {
-	color: #00000F;
-	background-color: #B556B5;
+	color: #000003;
+	background-color: #501AED;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 735px;
+	width: 935px;
+	min-height: 641px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 64px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 94px 5px 64px 20px;
 }
 
 #menuu115
@@ -196,23 +196,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u249
-{
-	z-index: 28;
-	width: 70px;
-	bottom: 39px;
-	left: 120px;
-}
-
-#pu433-4
-{
-	width: 0.01px;
-	padding-bottom: 1px;
-	margin-right: -10000px;
-	margin-top: 94px;
-	margin-left: 42px;
-}
-
 #u433-4
 {
 	z-index: 59;
@@ -224,14 +207,8 @@
 	color: #FFFFFF;
 	font-family: alex-brush, cursive;
 	font-weight: 400;
-	margin-left: 249px;
+	margin-left: 271px;
 	position: relative;
-}
-
-#pu257-19
-{
-	width: 0.01px;
-	margin-top: 19px;
 }
 
 #u257-19
@@ -244,8 +221,16 @@
 	text-align: justify;
 	font-family: droid-serif, serif;
 	font-weight: 400;
+	margin-left: 22px;
+	margin-top: 19px;
 	position: relative;
-	margin-right: -10000px;
+}
+
+#pu260-4
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 11px;
 }
 
 #u260-4
@@ -261,7 +246,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 505px;
+	margin-top: 21px;
 }
 
 #u261
@@ -271,17 +256,22 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 463px;
-	left: 267px;
+	left: 346px;
 }
 
-#pu255-4
+#pu249
 {
 	width: 0.01px;
-	padding-bottom: 32px;
-	margin-right: -10000px;
-	margin-top: 747px;
-	margin-left: 99px;
+	padding-bottom: 70px;
+	margin-top: -121px;
+}
+
+#u249
+{
+	z-index: 28;
+	width: 70px;
+	bottom: 39px;
+	left: 120px;
 }
 
 #u255-4

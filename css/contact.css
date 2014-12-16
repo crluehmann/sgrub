@@ -40,8 +40,8 @@
 
 .version.contact /* version checker */
 {
-	color: #000005;
-	background-color: #2FBBD8;
+	color: #0000E1;
+	background-color: #68F74A;
 }
 
 .html
@@ -246,7 +246,7 @@
 
 #u428
 {
-	z-index: 132;
+	z-index: 128;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
@@ -585,7 +585,7 @@
 	font-style: italic;
 }
 
-#u348-21
+#u348-17
 {
 	z-index: 72;
 	min-height: 31px;
@@ -594,27 +594,27 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 404px;
-	background: url("../images/u348-21.png") no-repeat 0px 0px;
+	background: url("../images/u348-17.png") no-repeat 0px 0px;
 }
 
-#u348-21:hover
+#u348-17:hover
 {
-	background: url("../images/u348-21-r.png") no-repeat 0px 0px;
+	background: url("../images/u348-17-r.png") no-repeat 0px 0px;
 }
 
-#u348-21:active
+#u348-17:active
 {
-	background: url("../images/u348-21-m.png") no-repeat 0px 0px;
+	background: url("../images/u348-17-m.png") no-repeat 0px 0px;
 }
 
-#widgetu336.frm-sub-st #u348-21
+#widgetu336.frm-sub-st #u348-17
 {
-	background: url("../images/u348-21-fs.png") no-repeat 0px 0px;
+	background: url("../images/u348-17-fs.png") no-repeat 0px 0px;
 }
 
 #widgetu338
 {
-	z-index: 93;
+	z-index: 89;
 	width: 342px;
 	height: 101px;
 	border-style: none;
@@ -638,7 +638,7 @@
 
 #u339-5
 {
-	z-index: 94;
+	z-index: 90;
 	width: 200px;
 	min-height: 20px;
 	border-style: none;
@@ -665,7 +665,7 @@
 
 #u340-5
 {
-	z-index: 99;
+	z-index: 95;
 	width: 328px;
 	min-height: 68px;
 	border-width: 1px;
@@ -750,7 +750,7 @@
 
 #widgetu353
 {
-	z-index: 104;
+	z-index: 100;
 	width: 342px;
 	height: 47px;
 	border-style: none;
@@ -774,7 +774,7 @@
 
 #u354-4
 {
-	z-index: 105;
+	z-index: 101;
 	width: 200px;
 	min-height: 20px;
 	border-style: none;
@@ -791,7 +791,7 @@
 
 #u356-5
 {
-	z-index: 109;
+	z-index: 105;
 	width: 328px;
 	min-height: 14px;
 	border-width: 1px;
@@ -866,7 +866,7 @@
 
 #widgetu357
 {
-	z-index: 114;
+	z-index: 110;
 	width: 342px;
 	height: 109px;
 	border-style: none;
@@ -890,7 +890,7 @@
 
 #u359-4
 {
-	z-index: 115;
+	z-index: 111;
 	width: 200px;
 	min-height: 20px;
 	border-style: none;
@@ -907,7 +907,7 @@
 
 #u360-5
 {
-	z-index: 119;
+	z-index: 115;
 	width: 328px;
 	min-height: 14px;
 	border-width: 1px;
@@ -988,7 +988,7 @@
 
 #u358-4
 {
-	z-index: 124;
+	z-index: 120;
 	width: 130px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1026,7 +1026,7 @@
 
 #u362
 {
-	z-index: 129;
+	z-index: 125;
 	width: 18px;
 	height: 18px;
 	background-color: transparent;
@@ -1038,7 +1038,7 @@
 
 #u393
 {
-	z-index: 130;
+	z-index: 126;
 	width: 18px;
 	height: 18px;
 	position: relative;
@@ -1065,7 +1065,7 @@
 
 #u409
 {
-	z-index: 131;
+	z-index: 127;
 	width: 18px;
 	height: 18px;
 	position: relative;
