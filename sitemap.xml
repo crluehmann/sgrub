@@ -109,30 +109,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/u348-21.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/u348-21-r.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/u348-21-m.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/u348-21-fs.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.sydneygruber.com/images/recaptchamodeaudio.png</loc>
     <lastmod>2014-12-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +176,30 @@
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/recaptchahelpmousedown.jpg</loc>
+    <lastmod>2014-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/u348-17.png</loc>
+    <lastmod>2014-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/u348-17-r.png</loc>
+    <lastmod>2014-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/u348-17-m.png</loc>
+    <lastmod>2014-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/u348-17-fs.png</loc>
     <lastmod>2014-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

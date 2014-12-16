@@ -1,7 +1,7 @@
 .version.foundation /* version checker */
 {
-	color: #000007;
-	background-color: #2B71F5;
+	color: #000011;
+	background-color: #A6BEF7;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 722px;
-	min-height: 614.6999999999999px;
+	width: 701px;
+	min-height: 608.55px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 98px 129px 86.30000000000007px 109px;
+	padding: 98px 129px 92.45000000000005px 130px;
 }
 
 #menuu115
@@ -207,13 +207,14 @@
 	color: #FFFFFF;
 	font-family: alex-brush, cursive;
 	font-weight: 400;
-	margin-left: 217px;
+	margin-left: 196px;
 	position: relative;
 }
 
 #pu431-43
 {
 	width: 0.01px;
+	margin-left: -1px;
 }
 
 #u431-43
@@ -224,7 +225,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 21px;
 }
 
 #u431-2,#u431-4,#u431-6,#u431-8,#u431-10,#u431-11,#u431-12,#u431-14,#u431-16,#u431-18,#u431-20,#u431-21,#u431-22,#u431-24,#u431-26,#u431-28,#u431-30,#u431-31,#u431-32,#u431-33,#u431-34,#u431-36,#u431-37,#u431-38,#u431-40
@@ -250,6 +250,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 378px;
+	left: 9px;
 }
 
 #u435
@@ -259,8 +260,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 338px;
-	left: 268px;
+	margin-top: 332px;
+	left: 279px;
 }
 
 #u249
