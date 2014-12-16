@@ -1,0 +1,317 @@
+.version.about_artist /* version checker */
+{
+	color: #00000F;
+	background-color: #B556B5;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 735px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 64px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menuu115
+{
+	z-index: 2;
+	width: 920px;
+	top: 56px;
+	left: 50%;
+	margin-left: -460px;
+}
+
+#u143
+{
+	width: 228px;
+	min-height: 56px;
+	margin-right: -10000px;
+}
+
+#u144
+{
+	width: 228px;
+	padding-bottom: 4px;
+}
+
+#u144:hover
+{
+	margin: 0px;
+}
+
+#u146-4
+{
+	width: 224px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u144:hover #u146-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u156
+{
+	width: 228px;
+	min-height: 56px;
+	margin-right: -10000px;
+	left: 230px;
+}
+
+#u159
+{
+	width: 228px;
+	padding-bottom: 4px;
+}
+
+#u144.MuseMenuActive,#u159:hover
+{
+	margin: 0px;
+}
+
+#u161-4
+{
+	width: 224px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u144.MuseMenuActive #u146-4,#u159:hover #u161-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u169
+{
+	width: 229px;
+	min-height: 56px;
+	margin-right: -10000px;
+	left: 460px;
+}
+
+#u172
+{
+	width: 229px;
+	padding-bottom: 4px;
+}
+
+#u159.MuseMenuActive,#u172:hover
+{
+	margin: 0px;
+}
+
+#u173-4
+{
+	width: 225px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u159.MuseMenuActive #u161-4,#u172:hover #u173-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u182
+{
+	width: 229px;
+	min-height: 56px;
+	margin-right: -10000px;
+	left: 691px;
+}
+
+#u185
+{
+	width: 229px;
+	padding-bottom: 4px;
+}
+
+#u172.MuseMenuActive,#u185:hover
+{
+	margin: 0px;
+}
+
+#u185.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u186-4
+{
+	width: 225px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u172.MuseMenuActive #u173-4,#u185:hover #u186-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u185.MuseMenuActive #u186-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u249
+{
+	z-index: 28;
+	width: 70px;
+	bottom: 39px;
+	left: 120px;
+}
+
+#pu433-4
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin-right: -10000px;
+	margin-top: 94px;
+	margin-left: 42px;
+}
+
+#u433-4
+{
+	z-index: 59;
+	width: 379px;
+	min-height: 71px;
+	background-color: transparent;
+	line-height: 70px;
+	font-size: 58px;
+	color: #FFFFFF;
+	font-family: alex-brush, cursive;
+	font-weight: 400;
+	margin-left: 249px;
+	position: relative;
+}
+
+#pu257-19
+{
+	width: 0.01px;
+	margin-top: 19px;
+}
+
+#u257-19
+{
+	z-index: 34;
+	width: 877px;
+	min-height: 495px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: justify;
+	font-family: droid-serif, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u260-4
+{
+	z-index: 53;
+	width: 234px;
+	min-height: 41px;
+	background-color: transparent;
+	line-height: 49px;
+	font-size: 41px;
+	color: #FFFFFF;
+	font-family: alex-brush, cursive;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 505px;
+}
+
+#u261
+{
+	z-index: 57;
+	width: 155px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 463px;
+	left: 267px;
+}
+
+#pu255-4
+{
+	width: 0.01px;
+	padding-bottom: 32px;
+	margin-right: -10000px;
+	margin-top: 747px;
+	margin-left: 99px;
+}
+
+#u255-4
+{
+	z-index: 30;
+	width: 358px;
+	min-height: 28px;
+	bottom: 54px;
+	left: 199px;
+}
+
+#u189
+{
+	z-index: 27;
+	width: 147px;
+	min-height: 32px;
+	bottom: 54px;
+	right: 105px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 34px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
