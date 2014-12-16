@@ -1,0 +1,304 @@
+.version.foundation /* version checker */
+{
+	color: #000007;
+	background-color: #2B71F5;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 722px;
+	min-height: 614.6999999999999px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 98px 129px 86.30000000000007px 109px;
+}
+
+#menuu115
+{
+	z-index: 2;
+	width: 920px;
+	top: 56px;
+	left: 50%;
+	margin-left: -460px;
+}
+
+#u143
+{
+	width: 228px;
+	min-height: 56px;
+	margin-right: -10000px;
+}
+
+#u144
+{
+	width: 228px;
+	padding-bottom: 4px;
+}
+
+#u144:hover
+{
+	margin: 0px;
+}
+
+#u146-4
+{
+	width: 224px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u144:hover #u146-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u156
+{
+	width: 228px;
+	min-height: 56px;
+	margin-right: -10000px;
+	left: 230px;
+}
+
+#u159
+{
+	width: 228px;
+	padding-bottom: 4px;
+}
+
+#u144.MuseMenuActive,#u159:hover
+{
+	margin: 0px;
+}
+
+#u161-4
+{
+	width: 224px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u144.MuseMenuActive #u146-4,#u159:hover #u161-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u169
+{
+	width: 229px;
+	min-height: 56px;
+	margin-right: -10000px;
+	left: 460px;
+}
+
+#u172
+{
+	width: 229px;
+	padding-bottom: 4px;
+}
+
+#u159.MuseMenuActive,#u172:hover
+{
+	margin: 0px;
+}
+
+#u173-4
+{
+	width: 225px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u159.MuseMenuActive #u161-4,#u172:hover #u173-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u182
+{
+	width: 229px;
+	min-height: 56px;
+	margin-right: -10000px;
+	left: 691px;
+}
+
+#u185
+{
+	width: 229px;
+	padding-bottom: 4px;
+}
+
+#u172.MuseMenuActive,#u185:hover
+{
+	margin: 0px;
+}
+
+#u185.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u186-4
+{
+	width: 225px;
+	min-height: 48px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u172.MuseMenuActive #u173-4,#u185:hover #u186-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u185.MuseMenuActive #u186-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u432-4
+{
+	z-index: 77;
+	width: 309px;
+	min-height: 70px;
+	background-color: transparent;
+	line-height: 65px;
+	font-size: 54px;
+	color: #FFFFFF;
+	font-family: alex-brush, cursive;
+	font-weight: 400;
+	margin-left: 217px;
+	position: relative;
+}
+
+#pu431-43
+{
+	width: 0.01px;
+}
+
+#u431-43
+{
+	z-index: 34;
+	width: 701px;
+	min-height: 386px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 21px;
+}
+
+#u431-2,#u431-4,#u431-6,#u431-8,#u431-10,#u431-11,#u431-12,#u431-14,#u431-16,#u431-18,#u431-20,#u431-21,#u431-22,#u431-24,#u431-26,#u431-28,#u431-30,#u431-31,#u431-32,#u431-33,#u431-34,#u431-36,#u431-37,#u431-38,#u431-40
+{
+	text-align: justify;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-family: droid-serif, serif;
+	font-weight: 400;
+}
+
+#u434-4
+{
+	z-index: 81;
+	width: 250px;
+	min-height: 58px;
+	background-color: transparent;
+	line-height: 53px;
+	font-size: 44px;
+	color: #FFFFFF;
+	font-family: alex-brush, cursive;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 378px;
+}
+
+#u435
+{
+	z-index: 85;
+	width: 207px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 338px;
+	left: 268px;
+}
+
+#u249
+{
+	z-index: 28;
+	width: 70px;
+	bottom: 39px;
+	left: 120px;
+}
+
+#u189
+{
+	z-index: 27;
+	width: 147px;
+	min-height: 32px;
+	bottom: 54px;
+	right: 105px;
+}
+
+#u255-4
+{
+	z-index: 30;
+	width: 358px;
+	min-height: 28px;
+	bottom: 54px;
+	left: 199px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 34px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
