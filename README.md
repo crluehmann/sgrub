@@ -9,3 +9,4 @@ __author__ = "Chris Luehmann"
 ** Create Project based repos - Intimiations / Personally **
 ** Replace stock images with actual images **
 ** Scrolling Text goes in front of header -- make it behind **
+** "SG" in top corner scrolls with page, needs to be anchored with header **
