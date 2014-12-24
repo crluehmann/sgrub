@@ -17,6 +17,7 @@ Known Bugs/Required Fixes
 -- Edit images for color correction and perspective warp
 -- Clean up Gallery -- make commision badge rather than just text
 -- Scrolling Text goes in front of header -- make it behind
+-- Images don't go full screen when clicked, they're cropped!!
 
 Notes
 =====
