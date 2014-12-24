@@ -1,3 +1,17 @@
+#u504,#u249
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u255-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: fixed;
+}
+
 #u144
 {
 	background-color: #EEEEEE;
@@ -76,7 +90,7 @@
 	position: relative;
 }
 
-#u504,#u143,#u156,#u169,#u182
+#u143,#u156,#u169,#u182
 {
 	background-color: transparent;
 	position: relative;
@@ -118,25 +132,11 @@
 	cursor: pointer;
 }
 
-#u249
-{
-	background-color: transparent;
-	position: fixed;
-}
-
 #menuu115,#u189
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	position: fixed;
-}
-
-#u255-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: fixed;
 }
 

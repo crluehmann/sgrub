@@ -1,7 +1,7 @@
 .version.about_artist /* version checker */
 {
-	color: #0000EC;
-	background-color: #5BDFDB;
+	color: #000001;
+	background-color: #71E1FA;
 }
 
 .html
@@ -12,50 +12,23 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 798.6px;
+	width: 661px;
+	min-height: 543px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#page_position_content
-{
-	padding-bottom: 64px;
-}
-
-#pu504
-{
-	width: 0.01px;
-	margin-left: 20px;
+	padding: 94px 150px 95px 149px;
 }
 
 #u504
 {
 	z-index: 34;
 	width: 136px;
-	margin-right: -10000px;
-}
-
-#u433-4
-{
-	z-index: 61;
-	width: 379px;
-	min-height: 71px;
-	background-color: transparent;
-	line-height: 70px;
-	font-size: 58px;
-	color: #FFFFFF;
-	font-family: alex-brush, cursive;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 94px;
-	left: 271px;
+	top: 0px;
+	left: 120px;
 }
 
 #menuu115
@@ -231,31 +204,44 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u257-19
+#u433-4
+{
+	z-index: 54;
+	width: 379px;
+	min-height: 71px;
+	background-color: transparent;
+	line-height: 70px;
+	font-size: 58px;
+	color: #FFFFFF;
+	font-family: alex-brush, cursive;
+	font-weight: 400;
+	margin-left: 142px;
+	position: relative;
+}
+
+#pu257-12
+{
+	width: 0.01px;
+	margin-top: 11px;
+}
+
+#u257-12
 {
 	z-index: 36;
-	width: 877px;
-	min-height: 495px;
+	width: 661px;
+	min-height: 461px;
 	background-color: transparent;
 	color: #FFFFFF;
 	text-align: justify;
 	font-family: droid-serif, serif;
 	font-weight: 400;
-	margin-left: 42px;
-	margin-top: 19px;
 	position: relative;
-}
-
-#pu260-4
-{
-	width: 0.01px;
-	margin-left: 57px;
-	margin-top: 10px;
+	margin-right: -10000px;
 }
 
 #u260-4
 {
-	z-index: 55;
+	z-index: 48;
 	width: 234px;
 	min-height: 41px;
 	background-color: transparent;
@@ -266,25 +252,19 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 21px;
+	margin-top: 339px;
+	left: 38px;
 }
 
 #u261
 {
-	z-index: 59;
+	z-index: 52;
 	width: 155px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 346px;
-}
-
-#pu249
-{
-	width: 0.01px;
-	padding-bottom: 70px;
-	margin-left: 20px;
-	margin-top: -121px;
+	margin-top: 306px;
+	left: 365px;
 }
 
 #u249
@@ -295,15 +275,6 @@
 	left: 120px;
 }
 
-#u255-4
-{
-	z-index: 5;
-	width: 358px;
-	min-height: 28px;
-	bottom: 54px;
-	left: 199px;
-}
-
 #u189
 {
 	z-index: 2;
@@ -311,6 +282,15 @@
 	min-height: 32px;
 	bottom: 54px;
 	right: 105px;
+}
+
+#u255-4
+{
+	z-index: 5;
+	width: 358px;
+	min-height: 28px;
+	bottom: 54px;
+	left: 199px;
 }
 
 body

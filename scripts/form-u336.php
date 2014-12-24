@@ -29,7 +29,7 @@ $form = array(
 		'to' => 'sydneygruber23@gmail.com'
 	),
 	'recaptcha' => array(
-		'private_key' => '6LfMX_8SAAAAAI-ank5_ZsiuzRcWf7Ho6wx5kfn4'
+		'private_key' => 'null'
 	),
 	'fields' => array(
 		'custom_U349' => array(

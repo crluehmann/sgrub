@@ -1,242 +1,506 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.sydneygruber.com/images/road.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/sg%20signature%20-w136x136.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chairs-crop-u220.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/blank.gif</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/cactus.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/set.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/trees.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/set2-crop-u538.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/signauture.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/loading.gif</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/sg%20signature%20-w70x70.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/cactus594x396.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/chair_progress-crop-u490.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/road594x396.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/chair_progress2-crop-u870.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/trees594x396.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/halftable_progress-crop-u879.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/cactus68x45.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/halftable_progress2.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/road68x45.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/leaves_progress.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/trees68x45.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/leaves_progress2.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/cactus716x477.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/yup_progress-crop-u915.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/road716x477.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/chair_progress-crop-u473.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/trees716x477.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/chair_progress2-crop-u873.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/halftable_progress-crop-u882.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/halftable_progress260x54.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/leaves_progress60x54.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/leaves_progress260x55.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/yup_progress-crop-u918.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/box_back-crop-u457.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/box_side2-crop-u653.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chair_back-crop-u662.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chair_front-crop-u671.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chair_top-crop-u680.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chest.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chest_drawer.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chest_open-crop-u707.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/embrace_side.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/embrace_top.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/guitar_side-crop-u734.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/guitar_top-crop-u743.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/kiss_perspective-crop-u752.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/kiss_side-crop-u761.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/kiss_top-crop-u770.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/lillies_side-crop-u779.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/stool.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/stool_perspective-crop-u797.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/stool_top-crop-u806.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/box_back-crop-u440.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/box_side2-crop-u656.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chair_back-crop-u665.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chair_front-crop-u674.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chair_top-crop-u683.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chest60x50.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chest_drawer68x45.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/chest_open-crop-u710.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/embrace_side60x48.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/embrace_top-crop-u728.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/guitar_side-crop-u737.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/guitar_top-crop-u746.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/kiss_perspective-crop-u755.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/kiss_side-crop-u764.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/kiss_top-crop-u773.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/lillies_side-crop-u782.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/stool68x45.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/stool_perspective-crop-u800.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/stool_top-crop-u809.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/sg%20signature%20-w207x207.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/sg%20signature%20-w155x155.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/sg%20signature%20-w.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchamodeaudio.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchamodeaudiorollover.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchamodeaudiomousedown.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchamodeimage.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchamodeimagerollover.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchamodeimagemousedown.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptcharefresh.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptcharefreshrollover.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptcharefreshmousedown.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchahelp.png</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchahelprollover.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.sydneygruber.com/images/recaptchahelpmousedown.jpg</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/u348-17.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/u348-17-r.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/u348-17-m.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/images/u348-17-fs.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.sydneygruber.com/images/sg%20signature%20-w136x136.png</loc>
-    <lastmod>2014-12-16</lastmod>
+    <loc>http://www.sydneygruber.com/images/recaptchamodeaudio.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchamodeaudiorollover.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchamodeaudiomousedown.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchamodeimage.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchamodeimagerollover.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchamodeimagemousedown.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptcharefresh.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptcharefreshrollover.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptcharefreshmousedown.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchahelp.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchahelprollover.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.sydneygruber.com/images/recaptchahelpmousedown.jpg</loc>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/index.html</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/gallery.html</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/foundation.html</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/about-artist.html</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.sydneygruber.com/contact.html</loc>
-    <lastmod>2014-12-16</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

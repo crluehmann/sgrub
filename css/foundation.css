@@ -1,7 +1,7 @@
 .version.foundation /* version checker */
 {
-	color: #0000E0;
-	background-color: #A73B1D;
+	color: #0000EA;
+	background-color: #7C1372;
 }
 
 .html
@@ -12,50 +12,23 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 798.8px;
+	width: 701px;
+	min-height: 608.55px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#page_position_content
-{
-	padding-bottom: 92px;
-}
-
-#pu504
-{
-	width: 0.01px;
-	margin-left: 20px;
+	padding: 98px 129px 92.45000000000005px 130px;
 }
 
 #u504
 {
 	z-index: 34;
 	width: 136px;
-	margin-right: -10000px;
-}
-
-#u432-4
-{
-	z-index: 79;
-	width: 309px;
-	min-height: 70px;
-	background-color: transparent;
-	line-height: 65px;
-	font-size: 54px;
-	color: #FFFFFF;
-	font-family: alex-brush, cursive;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 98px;
-	left: 306px;
+	top: 0px;
+	left: 120px;
 }
 
 #menuu115
@@ -231,13 +204,28 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu431-43
+#u432-4
 {
-	width: 0.01px;
-	margin-left: 130px;
+	z-index: 57;
+	width: 309px;
+	min-height: 70px;
+	background-color: transparent;
+	line-height: 65px;
+	font-size: 54px;
+	color: #FFFFFF;
+	font-family: alex-brush, cursive;
+	font-weight: 400;
+	margin-left: 196px;
+	position: relative;
 }
 
-#u431-43
+#pu431-21
+{
+	width: 0.01px;
+	margin-left: -1px;
+}
+
+#u431-21
 {
 	z-index: 36;
 	width: 701px;
@@ -247,10 +235,9 @@
 	margin-right: -10000px;
 }
 
-#u431-2,#u431-4,#u431-6,#u431-8,#u431-10,#u431-11,#u431-12,#u431-14,#u431-16,#u431-18,#u431-20,#u431-21,#u431-22,#u431-24,#u431-26,#u431-28,#u431-30,#u431-31,#u431-32,#u431-33,#u431-34,#u431-36,#u431-37,#u431-38,#u431-40
+#u431-2,#u431-4,#u431-5,#u431-7,#u431-8,#u431-10,#u431-11,#u431-12,#u431-14,#u431-15,#u431-17,#u431-18
 {
 	text-align: justify;
-	line-height: 14px;
 	color: #FFFFFF;
 	font-family: droid-serif, serif;
 	font-weight: 400;
@@ -258,7 +245,7 @@
 
 #u434-4
 {
-	z-index: 83;
+	z-index: 61;
 	width: 250px;
 	min-height: 58px;
 	background-color: transparent;
@@ -275,7 +262,7 @@
 
 #u435
 {
-	z-index: 87;
+	z-index: 65;
 	width: 207px;
 	background-color: transparent;
 	position: relative;

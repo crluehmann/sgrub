@@ -1,22 +1,22 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418771121446">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1419395666656">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
-    <file name="master_a-master.css" crc="213952814" ref="gallery:about-artist:contact:index:foundation"/>
-    <file name="gallery.css" crc="16551360" ref="gallery"/>
-    <file name="about-artist.css" crc="3965444059" ref="about-artist"/>
-    <file name="contact.css" crc="4279459476" ref="contact"/>
-    <file name="index.css" crc="3953025613" ref="index"/>
-    <file name="foundation.css" crc="3769056029" ref="foundation"/>
+    <file name="master_a-master.css" crc="435450407" ref="gallery:foundation:index:about-artist:contact"/>
+    <file name="gallery.css" crc="30455026" ref="gallery"/>
+    <file name="foundation.css" crc="3933999986" ref="foundation"/>
+    <file name="index.css" crc="3840688094" ref="index"/>
+    <file name="about-artist.css" crc="24240634" ref="about-artist"/>
+    <file name="contact.css" crc="4280608916" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:gallery:foundation:about-artist:contact"/>
     <file name="museutils.js" crc="3777594392" ref="index:gallery:foundation:about-artist:contact"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musemenu.js" crc="415733523" ref="index:gallery:foundation:about-artist:contact"/>
     <file name="webpro.js" crc="474087315" ref="index:gallery:contact"/>
     <file name="musewpslideshow.js" crc="274584885" ref="index:gallery"/>
     <file name="jquery.museoverlay.js" crc="170414611" ref="index:gallery"/>
     <file name="touchswipe.js" crc="100683906" ref="index:gallery"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:gallery:foundation:about-artist:contact"/>
     <file name="jquery.watch.js" crc="4144919381" ref="index:gallery:foundation:about-artist:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:gallery:foundation:about-artist:contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="contact"/>
@@ -24,27 +24,76 @@
     <file name="form_throttle.php" crc="4293816517" ref="contact"/>
     <file name="form_process.php" crc="109188895" ref="contact"/>
     <file name="recaptchalib.php" crc="385583985" ref="contact"/>
-    <file name="form-u336.php" crc="205792373" ref="contact"/>
+    <file name="form-u336.php" crc="4051826503" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="road.jpg" crc="3773597329" ref="index"/>
+    <file name="sg signature -w136x136.png" crc="4285712281" ref="index"/>
+    <file name="chairs-crop-u220.jpg" crc="380912416" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:gallery"/>
-    <file name="cactus.jpg" crc="390863800" ref="index"/>
-    <file name="trees.jpg" crc="4196984327" ref="index"/>
+    <file name="set.jpg" crc="8559776" ref="index"/>
+    <file name="set2-crop-u538.jpg" crc="246902825" ref="index"/>
+    <file name="signauture.jpg" crc="3826620217" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:gallery"/>
     <file name="sg signature -w70x70.png" crc="3817471856" ref="index"/>
-    <file name="cactus594x396.jpg" crc="199764883" ref="gallery"/>
-    <file name="road594x396.jpg" crc="4195672337" ref="gallery"/>
-    <file name="trees594x396.jpg" crc="4080542633" ref="gallery"/>
-    <file name="cactus68x45.jpg" crc="270469103" ref="gallery"/>
-    <file name="road68x45.jpg" crc="531533821" ref="gallery"/>
-    <file name="trees68x45.jpg" crc="3878897335" ref="gallery"/>
-    <file name="cactus716x477.jpg" crc="195650103" ref="gallery"/>
-    <file name="road716x477.jpg" crc="3806986436" ref="gallery"/>
-    <file name="trees716x477.jpg" crc="4066769776" ref="gallery"/>
+    <file name="chair_progress-crop-u490.jpg" crc="4134978822" ref="gallery"/>
+    <file name="chair_progress2-crop-u870.jpg" crc="370314254" ref="gallery"/>
+    <file name="halftable_progress-crop-u879.jpg" crc="129039419" ref="gallery"/>
+    <file name="halftable_progress2.jpg" crc="4105042384" ref="gallery"/>
+    <file name="leaves_progress.jpg" crc="413353580" ref="gallery"/>
+    <file name="leaves_progress2.jpg" crc="4161570748" ref="gallery"/>
+    <file name="yup_progress-crop-u915.jpg" crc="492427723" ref="gallery"/>
+    <file name="chair_progress-crop-u473.jpg" crc="4268853498" ref="gallery"/>
+    <file name="chair_progress2-crop-u873.jpg" crc="3789123582" ref="gallery"/>
+    <file name="halftable_progress-crop-u882.jpg" crc="3925555770" ref="gallery"/>
+    <file name="halftable_progress260x54.jpg" crc="66310353" ref="gallery"/>
+    <file name="leaves_progress60x54.jpg" crc="67380524" ref="gallery"/>
+    <file name="leaves_progress260x55.jpg" crc="83505996" ref="gallery"/>
+    <file name="yup_progress-crop-u918.jpg" crc="3961583538" ref="gallery"/>
+    <file name="box_back-crop-u457.jpg" crc="4275925342" ref="gallery"/>
+    <file name="box_side2-crop-u653.jpg" crc="4134548797" ref="gallery"/>
+    <file name="chair_back-crop-u662.jpg" crc="50921448" ref="gallery"/>
+    <file name="chair_front-crop-u671.jpg" crc="3808909430" ref="gallery"/>
+    <file name="chair_top-crop-u680.jpg" crc="4123797475" ref="gallery"/>
+    <file name="chest.jpg" crc="451357864" ref="gallery"/>
+    <file name="chest_drawer.jpg" crc="474963370" ref="gallery"/>
+    <file name="chest_open-crop-u707.jpg" crc="520464908" ref="gallery"/>
+    <file name="embrace_side.jpg" crc="4226631473" ref="gallery"/>
+    <file name="embrace_top.jpg" crc="218382337" ref="gallery"/>
+    <file name="guitar_side-crop-u734.jpg" crc="519693756" ref="gallery"/>
+    <file name="guitar_top-crop-u743.jpg" crc="4250671636" ref="gallery"/>
+    <file name="kiss_perspective-crop-u752.jpg" crc="496504128" ref="gallery"/>
+    <file name="kiss_side-crop-u761.jpg" crc="307562620" ref="gallery"/>
+    <file name="kiss_top-crop-u770.jpg" crc="265465655" ref="gallery"/>
+    <file name="lillies_side-crop-u779.jpg" crc="8478896" ref="gallery"/>
+    <file name="stool.jpg" crc="3956978455" ref="gallery"/>
+    <file name="stool_perspective-crop-u797.jpg" crc="437246022" ref="gallery"/>
+    <file name="stool_top-crop-u806.jpg" crc="4236819953" ref="gallery"/>
+    <file name="box_back-crop-u440.jpg" crc="4093652609" ref="gallery"/>
+    <file name="box_side2-crop-u656.jpg" crc="4068986671" ref="gallery"/>
+    <file name="chair_back-crop-u665.jpg" crc="3809825311" ref="gallery"/>
+    <file name="chair_front-crop-u674.jpg" crc="287133994" ref="gallery"/>
+    <file name="chair_top-crop-u683.jpg" crc="4219481977" ref="gallery"/>
+    <file name="chest60x50.jpg" crc="415129444" ref="gallery"/>
+    <file name="chest_drawer68x45.jpg" crc="491007314" ref="gallery"/>
+    <file name="chest_open-crop-u710.jpg" crc="384108990" ref="gallery"/>
+    <file name="embrace_side60x48.jpg" crc="277811236" ref="gallery"/>
+    <file name="embrace_top-crop-u728.jpg" crc="3893634175" ref="gallery"/>
+    <file name="guitar_side-crop-u737.jpg" crc="4111879316" ref="gallery"/>
+    <file name="guitar_top-crop-u746.jpg" crc="352213101" ref="gallery"/>
+    <file name="kiss_perspective-crop-u755.jpg" crc="91585306" ref="gallery"/>
+    <file name="kiss_side-crop-u764.jpg" crc="166068755" ref="gallery"/>
+    <file name="kiss_top-crop-u773.jpg" crc="364916994" ref="gallery"/>
+    <file name="lillies_side-crop-u782.jpg" crc="221406193" ref="gallery"/>
+    <file name="stool68x45.jpg" crc="3960256637" ref="gallery"/>
+    <file name="stool_perspective-crop-u800.jpg" crc="3982022691" ref="gallery"/>
+    <file name="stool_top-crop-u809.jpg" crc="4095283935" ref="gallery"/>
     <file name="sg signature -w207x207.png" crc="400620649" ref="foundation"/>
     <file name="sg signature -w155x155.png" crc="4235777423" ref="about-artist"/>
     <file name="sg signature -w.png" crc="3852662954" ref="contact"/>
+    <file name="u348-17.png" crc="3943366023" ref="contact"/>
+    <file name="u348-17-r.png" crc="362224123" ref="contact"/>
+    <file name="u348-17-m.png" crc="3959882053" ref="contact"/>
+    <file name="u348-17-fs.png" crc="473348983" ref="contact"/>
     <file name="recaptchamodeaudio.png" crc="19952529" ref="contact"/>
     <file name="recaptchamodeaudiorollover.jpg" crc="356175670" ref="contact"/>
     <file name="recaptchamodeaudiomousedown.jpg" crc="4192655525" ref="contact"/>
@@ -57,15 +106,10 @@
     <file name="recaptchahelp.png" crc="4220586111" ref="contact"/>
     <file name="recaptchahelprollover.jpg" crc="450414995" ref="contact"/>
     <file name="recaptchahelpmousedown.jpg" crc="101282582" ref="contact"/>
-    <file name="u348-17.png" crc="382520818" ref="contact"/>
-    <file name="u348-17-r.png" crc="113629867" ref="contact"/>
-    <file name="u348-17-m.png" crc="4288882201" ref="contact"/>
-    <file name="u348-17-fs.png" crc="4246714077" ref="contact"/>
-    <file name="sg signature -w136x136.png" crc="4285712281" ref="index"/>
   </folder>
-  <file name="index.html" crc="401439388" mt="1418771084241" redirect="true"/>
-  <file name="gallery.html" crc="239911442" mt="1418770863390" redirect="true"/>
-  <file name="foundation.html" crc="4000171109" mt="1418770863391" redirect="true"/>
-  <file name="about-artist.html" crc="455802712" mt="1418770863391" redirect="true"/>
-  <file name="contact.html" crc="250798277" mt="1418770863397" redirect="true"/>
+  <file name="index.html" crc="421865820" mt="1419395659726" redirect="true"/>
+  <file name="gallery.html" crc="216455871" mt="1419395663643" redirect="true"/>
+  <file name="foundation.html" crc="124193946" mt="1419392561012" redirect="true"/>
+  <file name="about-artist.html" crc="4086707718" mt="1419392561012" redirect="true"/>
+  <file name="contact.html" crc="406904108" mt="1419392561013" redirect="true"/>
 </manifest>
