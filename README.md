@@ -18,6 +18,7 @@ Known Bugs/Required Fixes
 -- Clean up Gallery -- make commision badge rather than just text
 -- Scrolling Text goes in front of header -- make it behind
 -- Images don't go full screen when clicked, they're cropped!!
+-- fix CAPCHA
 
 Notes
 =====
